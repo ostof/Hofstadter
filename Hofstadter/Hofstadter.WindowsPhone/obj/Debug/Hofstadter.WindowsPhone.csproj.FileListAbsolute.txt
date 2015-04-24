@@ -1,4 +1,5 @@
 C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\bin\Debug\App.xbf
+C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\bin\Debug\AppSetting.xbf
 C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\bin\Debug\MainPage.xbf
 C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\bin\Debug\Hofstadter.WindowsPhone.xr.xml
 C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\bin\Debug\Hofstadter.WindowsPhone.exe
@@ -8,14 +9,18 @@ C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadt
 C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\bin\Debug\Hofstadter.WindowsPhone.build.appxrecipe
 C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\App.g.i.cs
 C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\AppSetting.g.i.cs
+C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\AppSetting.g.cs
 C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\MainPage.g.i.cs
 C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\MainPage.g.cs
 C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
 C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\App.xaml
-C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\AppSetting.xaml
 C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\App.xbf
-C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\AppSetting.xbf
 C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\MainPage.xbf
 C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\Hofstadter.WindowsPhone.exe
 C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\Hofstadter.WindowsPhone.pdb
 C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\priconfig.xml
@@ -30,8 +35,3 @@ C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadt
 C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
 C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\ProjectArchitectures.txt
-C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\bin\Debug\AppSetting.xbf
-C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\AppSetting.g.i.cs
-C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\AppSetting.g.cs
-C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\AppSetting.xaml
-C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.WindowsPhone\obj\Debug\AppSetting.xbf

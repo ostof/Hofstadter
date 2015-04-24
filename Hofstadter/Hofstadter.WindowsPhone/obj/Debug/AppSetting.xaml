@@ -9,6 +9,17 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
+        <Pivot x:Uid="SettingPage" x:Name="pivot" Title="Ciki">
+            <!--Setting page-->
+            <PivotItem Header="setting">
+              <TextBlock Text="Setting page" FontSize="24" />  
+            </PivotItem>
+            
+            <!--about page-->
+            <PivotItem Header="about">
+                <TextBlock Text="About" FontSize="24" />
+            </PivotItem>
+        </Pivot>
 
     </Grid>
 </Page>

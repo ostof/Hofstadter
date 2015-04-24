@@ -32,5 +32,15 @@ namespace Hofstadter
             // On click navigate to the page AppSetting.xaml
             Frame.Navigate(typeof(AppSetting));
         }
+
+        private void aboutButton_Click(object sender, RoutedEventArgs e)
+        {
+            Frame.Navigate(typeof(AppSetting));
+        }
+
+        private void creditsButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

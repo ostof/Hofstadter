@@ -9,10 +9,10 @@
     
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-        <Pivot x:Uid="StartPage" x:Name="pivot" Title="Hofstadter">
+        <Pivot x:Uid="StartPage" x:Name="pivot" Title="Ciki">
             <!--Start page-->
             <PivotItem Header="start">
-                <StackPanel Background="Red">
+                <StackPanel>
                     <Grid>
                         <Grid.RowDefinitions>
                             <RowDefinition Height="Auto" />
@@ -34,12 +34,13 @@
 
             <!--History page-->
             <PivotItem Header="history">
-                <TextBox Text="History"></TextBox>
-            </PivotItem>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
 
-            <!--Setting page-->
-            <PivotItem Header="setting">
-                <TextBox Text="Setting"></TextBox>
+                </Grid>
             </PivotItem>
 
         </Pivot>
@@ -49,10 +50,22 @@
     <Page.BottomAppBar>
         <CommandBar ClosedDisplayMode="Minimal">
             <CommandBar.SecondaryCommands>
-                <AppBarButton x:Name="appSettingsButton" Label="app settings" Click="appSettingsButton_Click"/>
+                <AppBarButton 
+                    x:Name="appSettingsButton" 
+                    Label="settings" 
+                    Click="appSettingsButton_Click"
+                    />
+                <!--<AppBarButton 
+                    x:Name="aboutButton" 
+                    Label="about"
+                    Click="aboutButton_Click"
+                    />
+                <AppBarButton 
+                    x:Name="creditsButton" 
+                    Label="credits"
+                    Click="creditsButton_Click"
+                    />-->
             </CommandBar.SecondaryCommands>
-            <AppBarButton Icon="Accept" Label="appbarbutton"/>
-            <AppBarButton Icon="Cancel" Label="appbarbutton"/>
         </CommandBar>
     </Page.BottomAppBar>
     

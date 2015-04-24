@@ -38,7 +38,7 @@
     <build:Item Name="TargetFrameworkMoniker" Value="WindowsPhoneApp,Version=v8.1" />
     <build:Item Name="VisualStudio" Version="12.0" />
     <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Community 2013" />
-    <build:Item Name="OperatingSystem" Version="10.0.10049.0 (fbl_impressive.150325-1700)" />
+    <build:Item Name="OperatingSystem" Version="10.0.10061.0 (fbl_impressive.150410-2039)" />
     <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="12.0.31101.0" />
     <build:Item Name="ProjectGUID" Value="{F42C47C8-40BC-4CF8-9C97-CEE1F684BD83}" />
     <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="12.0.30501.0" />
