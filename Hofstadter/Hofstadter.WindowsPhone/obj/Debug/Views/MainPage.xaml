@@ -37,7 +37,7 @@
 
             <!--History page-->
             <PivotItem Header="history">
-                <Grid DataContext="{Binding }">
+                <Grid>
                     <ContentPresenter ContentTemplate="{StaticResource HistoryList}" />
                     <TextBlock Text="test"/>
                 </Grid>
@@ -50,10 +50,10 @@
     <Page.BottomAppBar>
         <CommandBar ClosedDisplayMode="Minimal">
             <CommandBar.SecondaryCommands>
-                <AppBarButton 
+                <AppBarButton x:ConnectionId='1' 
                     x:Name="appSettingsButton" 
                     Label="settings" 
-                    Click="appSettingsButton_Click"
+                                                   
                     />
                 <!--<AppBarButton 
                     x:Name="aboutButton" 
@@ -70,3 +70,4 @@
     </Page.BottomAppBar>
     
 </Page>
+

@@ -1,1 +1,1 @@
-C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.Windows\Hofstadter.Windows.csproj;neutral
+E:\Dokumente\Visual Studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.Windows\Hofstadter.Windows.csproj;neutral

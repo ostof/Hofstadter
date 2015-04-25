@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>YOGA</Machine>
+    <Machine>JF</Machine>
     <WindowsUser>JF</WindowsUser>
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>70147f89-a0ca-470b-aa0a-48135204a772</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.Windows\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>E:\Dokumente\Visual Studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.Windows\obj\Debug\</IntermediateOutputPath>
     <RegisteredManifestChecksum>0CF75A1BEE6EC65ABAD8AC9B92050797F6233B4C76F4A7F125A4D2F2C02AC804</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>70147f89-a0ca-470b-aa0a-48135204a772_1.0.0.0_neutral__36c50ya4sxyrc</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>70147f89-a0ca-470b-aa0a-48135204a772_36c50ya4sxyrc!App</RegisteredUserModeAppID>
@@ -17,52 +17,52 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.Windows\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="E:\Dokumente\Visual Studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-24T19:26:07.301</Modified>
+      <Modified>2015-04-24T22:47:03.095</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.Windows\bin\Debug\Hofstadter.Windows.exe">
+    <AppxPackagedFile Include="E:\Dokumente\Visual Studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.Windows\bin\Debug\Hofstadter.Windows.exe">
       <PackagePath>Hofstadter.Windows.exe</PackagePath>
-      <Modified>2015-04-24T19:26:06.825</Modified>
+      <Modified>2015-04-24T22:47:02.854</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.Windows\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="E:\Dokumente\Visual Studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.Windows\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-03-14T03:19:30.000</Modified>
+      <Modified>2015-04-24T21:19:19.327</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.Windows\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="E:\Dokumente\Visual Studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.Windows\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-03-14T03:19:30.000</Modified>
+      <Modified>2015-04-24T21:19:19.328</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.Windows\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="E:\Dokumente\Visual Studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.Windows\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-03-14T03:19:30.000</Modified>
+      <Modified>2015-04-24T21:19:19.329</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.Windows\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="E:\Dokumente\Visual Studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.Windows\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-03-14T03:19:30.000</Modified>
+      <Modified>2015-04-24T21:19:19.329</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.Windows\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="E:\Dokumente\Visual Studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.Windows\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2015-04-24T19:26:06.516</Modified>
+      <Modified>2015-04-24T22:47:02.699</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.Windows\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="E:\Dokumente\Visual Studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.Windows\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2015-04-24T19:26:06.521</Modified>
+      <Modified>2015-04-24T22:47:02.699</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.Windows\bin\Debug\Hofstadter.Windows.xr.xml">
+    <AppxPackagedFile Include="E:\Dokumente\Visual Studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.Windows\bin\Debug\Hofstadter.Windows.xr.xml">
       <PackagePath>Hofstadter.Windows.xr.xml</PackagePath>
-      <Modified>2015-03-22T15:02:10.471</Modified>
+      <Modified>2015-04-24T21:19:19.419</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\JF\documents\visual studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.Windows\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="E:\Dokumente\Visual Studio 2013\Projects\Hofstadter\Hofstadter\Hofstadter.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-04-24T19:26:07.069</Modified>
+      <Modified>2015-04-24T22:47:02.986</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
